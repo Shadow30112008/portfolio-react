@@ -155,9 +155,9 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 **Manoel & João**
 
-- GitHub: [@Shadow30112008](https://github.com/seu-usuario)
+- GitHub: [@Shadow30112008 & joaomaraviroso](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: 00001146713721sp@al.educacao.sp.gov.br
+- Email: 00001146713721sp@al.educacao.sp.gov.br & 00001126785362sp@al.educacao.sp.gov.br
 
 ## 📞 Suporte
 
