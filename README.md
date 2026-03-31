@@ -153,11 +153,11 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 👤 Autor
 
-**Seu Nome**
+**Manoel & João**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- GitHub: [@Shadow30112008](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+- Email: 00001146713721sp@al.educacao.sp.gov.br
 
 ## 📞 Suporte
 
